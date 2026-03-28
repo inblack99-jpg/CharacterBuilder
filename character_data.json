@@ -1,0 +1,32 @@
+{
+  "name": "To Be Determined",
+  "race": "Custom Lineage",
+  "class": "Warlock",
+  "level": 1,
+  "background": "Urchin (Abandoned Child / Escaped Captive)",
+  "stats": {
+    "STR": 8,
+    "DEX": 14,
+    "CON": 14,
+    "INT": 10,
+    "WIS": 10,
+    "CHA": 18
+  },
+  "alignment": "Neutral",
+  "patron": "The Fiend",
+  "pact_boon": "Pact of the Chain (Planned at Level 3)",
+  "familiar": {
+    "name": "Xil",
+    "type": "Imp",
+    "role": "Contract Enforcer & Scout"
+  },
+  "feats": [
+    "Fey Touched (+1 CHA, Misty Step, Hex)"
+  ],
+  "spells": {
+    "cantrips": ["Eldritch Blast", "Minor Illusion"],
+    "level_1": ["Armor of Agathys", "Burning Hands", "Hex (from Fey Touched)"]
+  },
+  "backstory": "As a child, I committed my soul to a Fiend to gain the power to save myself from an abusive captor. I was an abandoned child. I hate evil, but I do not consider myself good. I have zero mercy for evil, ever. My Imp, Xil, acts as my familiar and the enforcer of my dark contract.",
+  "contract": "A soul-binding agreement struck in a moment of desperate survival. In exchange for the power to destroy my tormentor and survive on my own terms, my soul is pledged to the Fiend upon my death. The Imp, Xil, is bound to my service, but serves a dual purpose: it is the ever-present watcher and enforcer of the Fiend's will, ensuring I do not attempt to break the pact or deny my patron their due."
+}
