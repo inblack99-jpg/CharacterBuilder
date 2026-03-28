@@ -12,7 +12,7 @@
 ---
 ## Core Stats
 **Armor Class (AC):** 13 (Leather Armor + 2 Dex)
-**Hit Points (HP):** 10
+**Hit Points (HP):** 9
 **Hit Dice:** 1d8
 **Speed:** 30 ft.
 **Proficiency Bonus:** +2
@@ -23,9 +23,9 @@
 |:---:|:---:|:---:|:---:|
 | **STR** | 8 | -1 | -1 |
 | **DEX** | 14 | +2 | +2 |
-| **CON** | 14 | +2 | +2 |
+| **CON** | 13 | +1 | +1 |
 | **INT** | 10 | +0 | +0 |
-| **WIS** | 10 | +0 | **+2 (Proficient)** |
+| **WIS** | 12 | +1 | **+3 (Proficient)** |
 | **CHA** | 18 | +4 | **+6 (Proficient)** |
 
 \column
