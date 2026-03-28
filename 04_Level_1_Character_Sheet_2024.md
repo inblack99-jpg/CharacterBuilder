@@ -1,4 +1,4 @@
-# D&D 2024 Character Sheet - Level 1 (Brenya)
+# Brenya - Level 1 Warlock (2024 Rules)
 
 ![Brenya Character Art](https://raw.githubusercontent.com/inblack99-jpg/CharacterBuilder/master/Brenya.jpg){width:100%,mix-blend-mode:multiply}
 
@@ -28,7 +28,8 @@
 | **WIS** | 10 | +0 | **+2 (Proficient)** |
 | **CHA** | 18 | +4 | **+6 (Proficient)** |
 
----
+\column
+
 ## Skills & Tools
 *   **Insight (Wis): +2** (Warlock)
 *   **Intimidation (Cha): +6** (Warlock)
@@ -44,7 +45,8 @@
 *   **Eldritch Blast:** +6 to hit, Range 120 ft., Damage 1d10 + 4 Force. (Note: In 2024, Agonizing Blast is an Invocation you can take at Level 1!)
 *   **Xil (Imp) Attack:** Xil can attack as part of your action/bonus action depending on your Invocations.
 
----
+\page
+
 ## Features & Traits (2024)
 
 **Pact Spells (The Fiend):**
@@ -66,7 +68,8 @@ Your exposure to the feywild's magic has altered you.
 *   Increase your Charisma score by 1.
 *   You learn *Misty Step* and *Hex*. You can cast each for free once per long rest, or using spell slots.
 
----
+\column
+
 ## Spellcasting
 **Spellcasting Ability:** Charisma (Save DC: 14, Attack Bonus: +6)
 **Warlock Slots:** 1 (Level 1, refreshes on Short Rest)
