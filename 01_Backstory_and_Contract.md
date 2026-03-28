@@ -1,4 +1,7 @@
-# Character Backstory & The Infernal Contract
+# Character Backstory # Character Backstory & The Infernal Contract The Infernal Contract
+
+![Brenya Close Up](Ines.png)
+
 
 ## Identity
 **Background:** Urchin (The Abandoned Captive)
