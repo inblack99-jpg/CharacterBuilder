@@ -5,7 +5,7 @@
 **Name:** Brenya
 **Species:** Custom Lineage
 **Class & Level:** Warlock 1
-**Background:** Wayfarer (Urchin)
+**Background:** Urchin
 **Alignment:** True Neutral
 **Patron:** The Fiend
 
