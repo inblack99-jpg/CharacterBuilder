@@ -24,7 +24,7 @@
 | **CON** | 14 | +2 | +2 |
 | **INT** | 10 | +0 | +0 |
 | **WIS** | 10 | +0 | **+2 (Proficient)** |
-| **CHA** | 17 | +3 | **+5 (Proficient)** |
+| **CHA** | 18 | +4 | **+6 (Proficient)** |
 
 \column
 
