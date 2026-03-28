@@ -75,3 +75,29 @@ Eldritch Blast has a range of **120 feet**, while *Hex* only has a range of **90
 **The Strategy:**
 1.  **Turn 1 (120ft):** Fire your Blast (Action) and command Xil to sting (Bonus Action). **Move 30 feet forward.**
 2.  **Turn 2 (90ft):** Now that you are in range, cast **Hex** (Bonus Action) and Blast again (Action). You now have the full curse + blast combo running.
+
+---
+
+## 6. Xil's Tactical Toolkit (Pact of the Chain)
+
+As an Imp familiar, Xil is far more than just a damage source. He has hands, invisibility, and the ability to shape-shift, making him your ultimate utility tool.
+
+### **Xil's Forms & Speeds**
+Xil can use his Action to polymorph into three beast forms, or back to his true Imp form. His stats (HP, AC) remain the same in all forms.
+
+| Form | Walking Speed | Flying Speed | Climbing Speed | Best Use |
+| :--- | :---: | :---: | :---: | :--- |
+| **Imp (True Form)** | 20 ft. | 40 ft. | - | Combat, opening doors, carrying items. |
+| **Raven** | 10 ft. | **50 ft.** | - | Fast aerial scouting, blending into nature. |
+| **Rat** | 20 ft. | - | - | Urban infiltration, squeezing under doors. |
+| **Spider** | 20 ft. | - | **20 ft.** | Sticking to ceilings, absolute stealth. |
+
+*Note: Xil can turn **Invisible** in ANY of these forms!*
+
+### **Advanced Strategies (Beyond Attacking)**
+
+If you don't want to use your Bonus Action to make Xil attack (or if you want to keep him safe), use these tactics:
+
+1.  **The Invisible Helper (Advantage):** Xil stays invisible next to an enemy and uses the **Help** action. This gives *you* Advantage on your next *Eldritch Blast* attack roll against that enemy. *Using the Help action does not break his invisibility.*
+2.  **The Invisible Medic:** Because Xil has hands in his Imp form, he can carry a **Potion of Healing**. If you or an ally drops to 0 HP, Xil can fly over while invisible and administer the potion.
+3.  **The Saboteur:** Give Xil caltrops, ball bearings, or a torch. He can fly behind enemy lines while invisible to drop hazards, flip levers, or steal keys off a guard’s belt.
