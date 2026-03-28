@@ -33,23 +33,23 @@
 ## Skills
 *(Proficient skills marked with '*)*
 *   Acrobatics (Dex): +2
-*   Animal Handling (Wis): +0
+*   Animal Handling (Wis): +1
 *   Arcana (Int): +0
 *   Athletics (Str): -1
 *   **Deception (Cha): +6 *** (Warlock)
 *   History (Int): +0
-*   Insight (Wis): +0
+*   Insight (Wis): +1
 *   **Intimidation (Cha): +6 *** (Warlock)
 *   Investigation (Int): +0
-*   Medicine (Wis): +0
+*   Medicine (Wis): +1
 *   Nature (Int): +0
-*   Perception (Wis): +0
+*   Perception (Wis): +1
 *   Performance (Cha): +4
 *   Persuasion (Cha): +4
 *   Religion (Int): +0
 *   **Sleight of Hand (Dex): +4 *** (Urchin)
 *   **Stealth (Dex): +4 *** (Urchin)
-*   Survival (Wis): +0
+*   Survival (Wis): +1
 
 **Other Proficiencies & Languages:**
 *   Armor: Light Armor

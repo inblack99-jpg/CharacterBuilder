@@ -31,7 +31,7 @@
 \column
 
 ## Skills & Tools
-*   **Insight (Wis): +2** (Warlock)
+*   **Insight (Wis): +3** (Warlock)
 *   **Intimidation (Cha): +6** (Warlock)
 *   **Sleight of Hand (Dex): +4** (Background)
 *   **Stealth (Dex): +4** (Background)

@@ -7,15 +7,15 @@
 **Starting Stats (Level 1):**
 *   **STR:** 8 (-1) - You were a starved child; you aren't lifting boulders.
 *   **DEX:** 14 (+2) - Quick enough to dodge and hide.
-*   **CON:** 14 (+2) - Tough enough to survive your captor.
+*   **CON:** 13 (+1) - Tough enough to survive your captor.
 *   **INT:** 10 (+0) - Average street smarts.
-*   **WIS:** 10 (+0) - Average awareness.
+*   **WIS:** 12 (+1) - Above-average awareness, honed on the streets.
 *   **CHA:** 18 (+4) - 15 base + 2 (Racial) + 1 (Fey Touched Feat). The sheer force of your will and the infernal contract.
 
 ---
 
 ## Level 1: The Survivor Awakens
-*   **Hit Points:** 10 (8 + 2 Con)
+*   **Hit Points:** 9 (8 + 1 Con)
 *   **Proficiencies:** Light Armor, Simple Weapons. Skills: Deception, Intimidation.
 *   **Features:**
     *   **Dark One's Blessing (Fiend Patron):** When you reduce a hostile creature to 0 HP, you gain Temporary HP equal to your Charisma modifier + Warlock Level (currently 5 THP). This makes you surprisingly tanky when you get kills.
