@@ -18,7 +18,7 @@
 ---
 ## Ability Scores & Saving Throws
 | Stat | Score | Mod | Saving Throw |
-|---|---|---|---|
+|:---:|:---:|:---:|:---:|
 | **STR** | 8 | -1 | -1 |
 | **DEX** | 14 | +2 | +2 |
 | **CON** | 14 | +2 | +2 |
@@ -71,7 +71,7 @@
 
 **Dark One's Blessing (Level 1):**
 When you reduce a hostile creature to 0 hit points, you gain temporary hit points equal to your Charisma modifier + your warlock level (Minimum of 1).
-*Current THP gained on kill: 4*
+*Current THP gained on kill: 5*
 
 **Feat (Custom Lineage): Fey Touched**
 Your exposure to the feywild's magic (or in your case, a twist of the infernal pact altering your essence) has changed you.
@@ -102,8 +102,8 @@ Xil, the enforcer of your contract, is bound to you. At this level, he cannot fu
 
 **1st Level Spells Known (Requires Warlock Spell Slot):**
 1.  **Armor of Agathys:** Gain 5 temporary hit points for 1 hour. If a creature hits you with a melee attack while you have these hit points, the creature takes 5 cold damage.
-2.  **Burning Hands:** (Fiend expanded list). 15 ft cone of fire. DC 13 Dex save. 3d6 Fire damage (half on success).
+2.  **Burning Hands:** (Fiend expanded list). 15 ft cone of fire. DC 14 Dex save. 3d6 Fire damage (half on success).
 
 **Free Daily Spells (From Fey Touched Feat):**
 1.  **Misty Step:** Bonus Action. Teleport up to 30 feet to an unoccupied space you can see. (1 free cast/long rest).
-2.  **Hex:** Bonus Action. Target takes an extra 1d6 necrotic damage whenever you hit it with an attack (like Eldritch Blast!). Target has disadvantage on ability checks of one chosen ability. (1 free cast/long rest).
+2.  **Hex:** Bonus Action. Target takes an extra 1d6 necrotic damage whenever you hit it with an attack. If the target drops to 0 HP, you can use a Bonus Action on a later turn to move the hex to a new creature. Requires Concentration. (1 free cast/long rest).

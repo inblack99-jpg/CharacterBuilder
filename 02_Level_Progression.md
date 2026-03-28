@@ -18,7 +18,7 @@
 *   **Hit Points:** 10 (8 + 2 Con)
 *   **Proficiencies:** Light Armor, Simple Weapons. Skills: Deception, Intimidation.
 *   **Features:**
-    *   **Dark One's Blessing (Fiend Patron):** When you reduce a hostile creature to 0 HP, you gain Temporary HP equal to your Charisma modifier + Warlock Level (currently 4 THP). This makes you surprisingly tanky when you get kills.
+    *   **Dark One's Blessing (Fiend Patron):** When you reduce a hostile creature to 0 HP, you gain Temporary HP equal to your Charisma modifier + Warlock Level (currently 5 THP). This makes you surprisingly tanky when you get kills.
 *   **Feat (Custom Lineage): Fey Touched**
     *   +1 to Charisma (bringing it to 18).
     *   You learn the *Misty Step* spell and one 1st-level spell of your choice (recommendation: **Hex** or *Silvery Barbs* if allowed). You can cast each of these for free once per long rest, or using your Warlock spell slots.
@@ -43,8 +43,8 @@
 ## Level 4: Sharpening the Will
 *   **Hit Points:** 31
 *   **Features:**
-    *   **Ability Score Improvement:** Take a "half-feat" to round your Charisma up to 18.
-        *   Recommendation: **Telekinetic (+1 Cha)**. You get an invisible Mage Hand and can shove creatures as a bonus action. Combines incredibly well with your Repelling Blast for supreme battlefield control.
+    *   **Ability Score Improvement:** Your Charisma is already 18. You can take +2 Charisma to max it out at 20, or take a powerful feat.
+        *   Recommendation: **+2 Charisma** (Boosts your attack, damage, spell DC, and Temporary HP all at once). Alternatively, **War Caster** if you are struggling with Concentration checks.
 *   **Spells Known:** Add another cantrip (e.g., *Mage Hand* or *Prestidigitation*) and a 2nd-level spell like *Misty Step* (if you didn't take it earlier) or *Suggestion*.
 
 ## Level 5: The Artillery Battery
