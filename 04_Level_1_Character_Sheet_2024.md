@@ -31,11 +31,32 @@
 \column
 
 ## Skills & Tools
-*   **Insight (Wis): +3** (Warlock)
-*   **Intimidation (Cha): +6** (Warlock)
-*   **Sleight of Hand (Dex): +4** (Background)
-*   **Stealth (Dex): +4** (Background)
-*   **Thieves' Tools: +4** (Background)
+*(Proficient skills marked with '*)*
+*   Acrobatics (Dex): +2
+*   Animal Handling (Wis): +1
+*   Arcana (Int): +0
+*   Athletics (Str): -1
+*   **Deception (Cha): +6 *** (Warlock)
+*   History (Int): +0
+*   Insight (Wis): +1
+*   **Intimidation (Cha): +6 *** (Warlock)
+*   Investigation (Int): +0
+*   Medicine (Wis): +1
+*   Nature (Int): +0
+*   Perception (Wis): +1
+*   Performance (Cha): +4
+*   Persuasion (Cha): +4
+*   Religion (Int): +0
+*   **Sleight of Hand (Dex): +4 *** (Urchin)
+*   **Stealth (Dex): +4 *** (Urchin)
+*   Survival (Wis): +1
+
+**Other Proficiencies & Languages:**
+*   Armor: Light Armor
+*   Weapons: Simple Weapons
+*   Tools: Disguise Kit, Thieves' Tools
+*   Languages: Common, Infernal (or Abyssal, chosen for the Patron)
+*   Senses: Darkvision 60 ft. (Custom Lineage)
 
 ---
 ## Combat (2024 Rules)
