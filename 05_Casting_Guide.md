@@ -55,3 +55,23 @@ If you move from Battle 1 to Battle 2 with **no rest**, use this logic:
     *   *Hellish Rebuke* if a squishy enemy hits you.
     *   *Armor of Agathys* if your current shields are down and you are surrounded.
     *   *Command* if a dangerous enemy is trying to flee or reach an ally.
+
+---
+
+## 5. Long-Range Strategy (The "Sniper" Approach)
+
+Eldritch Blast has a range of **120 feet**, while *Hex* only has a range of **90 feet**. This creates a "Dead Zone" between 120ft and 90ft.
+
+### **The Invisible Scout (Pre-Combat)**
+*   **Xil's Role:** Send Xil (Imp) ahead of you while **Invisible**. He has 40ft fly speed and can hover right over targets (within 5ft) without being seen or heard.
+
+### **Tactical Execution**
+
+| Distance | Your Action | Your Bonus Action | Xil's Role |
+| :--- | :--- | :--- | :--- |
+| **120+ ft** | Eldritch Blast (Action) | Command **Xil** to Attack | Xil "Alpha Strikes" from Invisibility. |
+| **90 ft** | Eldritch Blast (Action) | Cast **Hex** (Bonus Action) | Xil continues to harass/distract targets. |
+
+**The Strategy:**
+1.  **Turn 1 (120ft):** Fire your Blast (Action) and command Xil to sting (Bonus Action). **Move 30 feet forward.**
+2.  **Turn 2 (90ft):** Now that you are in range, cast **Hex** (Bonus Action) and Blast again (Action). You now have the full curse + blast combo running.
