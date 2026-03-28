@@ -3,10 +3,10 @@
 ![Brenya Character Art](https://raw.githubusercontent.com/inblack99-jpg/CharacterBuilder/master/Brenya.jpg){width:100%,mix-blend-mode:multiply}
 
 **Name:** Brenya
-**Species:** Custom Lineage (2024 adaptation)
+**Species:** Custom Lineage
 **Class & Level:** Warlock 1
-**Background:** Wayfarer (Customized for +2 Cha, +1 Dex)
-**Alignment:** Neutral
+**Background:** Wayfarer (Urchin)
+**Alignment:** True Neutral
 **Patron:** The Fiend
 
 ---
