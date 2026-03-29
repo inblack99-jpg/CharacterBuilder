@@ -102,9 +102,11 @@ Xil, the enforcer of your contract, is bound to you. At this level, he cannot fu
 1.  **Eldritch Blast:** A beam of crackling energy. Range 120 ft. 1d10 Force damage.
 2.  **Minor Illusion:** Create a sound or an image of an object within 30 ft. (Great for hiding).
 
-**1st Level Spells Known (Requires Warlock Spell Slot):**
+**Chosen Spells (Requires Warlock Spell Slot):**
 1.  **Armor of Agathys:** Gain 5 temporary hit points for 1 hour. If a creature hits you with a melee attack while you have these hit points, the creature takes 5 cold damage.
 2.  **Burning Hands:** (Fiend expanded list). 15 ft cone of fire. DC 14 Dex save. 3d6 Fire damage (half on success).
+
+*(Note: In 2014 rules, Fiend Patron spells are added to your available list but are not granted for free; they must be chosen.)*
 
 **Free Daily Spells (From Fey Touched Feat):**
 1.  **Misty Step:** Bonus Action. Teleport up to 30 feet to an unoccupied space you can see. (1 free cast/long rest).

@@ -109,11 +109,13 @@ Your exposure to the feywild's magic (or in your case, a twist of the infernal p
 1.  **Eldritch Blast:** A beam of crackling energy. Range 120 ft. 1d10 + 4 Force damage.
 2.  **Friends:** Gain advantage on Charisma checks directed at one creature. (2024 version does not cause hostility).
 
-**Prepared Spells (Requires Warlock Spell Slot):**
+**Chosen Spells (Requires Warlock Spell Slot):**
 1.  **Armor of Agathys:** Gain 5 temporary hit points for 1 hour. If a creature hits you with a melee attack while you have these hit points, the creature takes 5 cold damage.
 2.  **Hellish Rebuke:** Reaction to being damaged. 60 ft range. DC 14 Dex save. 2d10 Fire damage (half on success).
-3.  **Burning Hands:** (Patron Spell). 15 ft cone of fire. DC 14 Dex save. 3d6 Fire damage (half on success).
-4.  **Command:** (Patron Spell). Target must succeed on a DC 14 Wis save or follow a one-word command on its next turn.
+
+**Free Patron Spells (Always Prepared):**
+1.  **Burning Hands:** 15 ft cone of fire. DC 14 Dex save. 3d6 Fire damage (half on success).
+2.  **Command:** Target must succeed on a DC 14 Wis save or follow a one-word command on its next turn.
 
 **Free Daily Spells (From Fey Touched Feat):**
 1.  **Misty Step:** Bonus Action. Teleport up to 30 feet to an unoccupied space you can see. (1 free cast/long rest).
