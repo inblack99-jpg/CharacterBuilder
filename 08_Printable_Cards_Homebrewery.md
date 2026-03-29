@@ -140,3 +140,12 @@
 <div class='description'>Xil polymorphs into a **Raven** (50ft Fly), **Rat** (20ft Walk), or **Spider** (20ft Climb). He retains all stats but cannot attack.</div>
 <div class='footer'>Familiar</div>
 </div>
+
+<div class='card familiar'>
+#### Xil: Sting (Attack)
+<div class='type'>Imp Familiar</div>
+<div class='stat'>Attack: 1d20 + 6</div>
+<div class='stat'>Damage: 1d4 + 4 Piercing</div>
+<div class='description'>Target makes a **DC 14 Con Save**. On failure, it takes **3d6 Poison** damage (half on success).</div>
+<div class='footer'>Familiar</div>
+</div>
