@@ -118,6 +118,7 @@ Your exposure to the feywild's magic (or in your case, a twist of the infernal p
 <!-- Note: In 2024 Rules, Hellish Rebuke is added here as a chosen spell. -->
 2.  **Burning Hands:** (Fiend expanded list). 15 ft cone of fire. DC 14 Dex save. 3d6 Fire damage (half on success).
 
+<!-- Note: 2024 Free Patron Header -->
 <!-- Note: 2024 Command spell -->
 <!-- Note: 2024 Disclaimer spacing -->
 

@@ -83,8 +83,6 @@ Once per Long Rest, you can spend 1 minute to regain 1 expended Warlock spell sl
 
 <!-- Note: In 2014 Rules, The Watcher (Story Element) is listed here. -->
 <!-- Note: The Watcher detail 1 -->
-<!-- Note: The Watcher detail 2 -->
-<!-- Note: The Watcher detail 3 -->
 
 **Eldritch Invocations (Level 1):**
 1.  **Agonizing Blast:** Add your Charisma modifier (+4) to the damage of *Eldritch Blast*.
