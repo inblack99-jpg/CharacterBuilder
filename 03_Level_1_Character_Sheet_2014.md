@@ -64,6 +64,7 @@
 
 **Attacks:**
 *   **Eldritch Blast:** +6 to hit, Range 120 ft., Damage 1d10 Force. (Your primary attack).
+<!-- Note: In 2024 Rules, Xil (Imp) Attack is added here as an invocation. -->
 *   **Dagger:** +4 to hit, Range 20/60 ft., Damage 1d4 + 2 Piercing.
 *   **Light Crossbow:** +4 to hit, Range 80/320 ft., Damage 1d8 + 2 Piercing.
 
@@ -72,16 +73,18 @@
 ## Features & Traits
 
 **Dark One's Blessing (Level 1):**
-When you reduce a hostile creature to 0 hit points, you gain temporary hit points equal to your Charisma modifier + your warlock level (Minimum of 1).
-*Current THP gained on kill: 5*
+When you reduce a hostile creature to 0 hit points, you gain 5 temporary hit points.
+<!-- Note: In 2024 Rules, Pact Spells (The Fiend) is added here as a feature. -->
+<!-- Note: In 2024 Rules, Magical Cunning (Level 1) is added here as a feature. -->
+
+**The Watcher (Story Element):**
+Xil, the enforcer of your contract, is bound to you. At this level, he cannot fully manifest physically in the material plane, but he exists at the edge of your perception—a shadow in the corner of your eye, a whisper in your ear. He watches your actions to ensure you do not break the pact.
+<!-- Note: In 2024 Rules, Eldritch Invocations is added here as a feature. -->
 
 **Feat (Custom Lineage): Fey Touched**
 Your exposure to the feywild's magic (or in your case, a twist of the infernal pact altering your essence) has changed you.
 *   Increase your Charisma score by 1, to a maximum of 20.
 *   You learn the *Misty Step* spell and one 1st-level spell of your choice (*Hex*). You can cast each of these spells without expending a spell slot. Once you cast either of these spells in this way, you can't cast that spell in this way again until you finish a long rest. You can also cast these spells using spell slots you have of the appropriate level.
-
-**The Watcher (Story Element):**
-Xil, the enforcer of your contract, is bound to you. At this level, he cannot fully manifest physically in the material plane, but he exists at the edge of your perception—a shadow in the corner of your eye, a whisper in your ear. He watches your actions to ensure you do not break the pact.
 
 ---
 ## Equipment
@@ -96,15 +99,17 @@ Xil, the enforcer of your contract, is bound to you. At this level, he cannot fu
 
 ## Spellcasting
 **Spellcasting Ability:** Charisma (Save DC: 14, Attack Bonus: +6)
-**Pact Magic Slots:** 1 (Level 1). Regains on a Short or Long Rest.
+**Warlock Slots:** 1 (Level 1). Regains on a Short Rest.
 
 **Cantrips (At-Will):**
 1.  **Eldritch Blast:** A beam of crackling energy. Range 120 ft. 1d10 Force damage.
 2.  **Minor Illusion:** Create a sound or an image of an object within 30 ft. (Great for hiding).
+<!-- Note: In 2024 Rules, Friends cantrip is added/swapped here. -->
 
 **Chosen Spells (Requires Warlock Spell Slot):**
 1.  **Armor of Agathys:** Gain 5 temporary hit points for 1 hour. If a creature hits you with a melee attack while you have these hit points, the creature takes 5 cold damage.
 2.  **Burning Hands:** (Fiend expanded list). 15 ft cone of fire. DC 14 Dex save. 3d6 Fire damage (half on success).
+<!-- Note: In 2024 Rules, Hellish Rebuke and Command are added here as free Patron spells. -->
 
 *(Note: In 2014 rules, Fiend Patron spells are added to your available list but are not granted for free; they must be chosen.)*
 
