@@ -3,22 +3,22 @@
   .card {
     border: 5px solid #58180D;
     background: #EEE5CE;
-    padding: 10px;
-    width: 250px;
-    height: 350px;
+    padding: 8px;
+    width: 220px;
+    height: 310px;
     display: inline-block;
     vertical-align: top;
-    margin: 5px;
-    border-radius: 15px;
-    box-shadow: 2px 2px 5px rgba(0,0,0,0.5);
+    margin: 3px;
+    border-radius: 12px;
+    box-shadow: 2px 2px 4px rgba(0,0,0,0.5);
     position: relative;
     overflow: hidden;
   }
-  .card h4 { color: #58180D; margin-top: 0; border-bottom: 2px solid #58180D; }
-  .card .type { font-style: italic; font-size: 0.8em; margin-bottom: 5px; }
-  .card .stat { font-weight: bold; font-size: 0.9em; margin: 2px 0; }
-  .card .description { font-size: 0.85em; margin-top: 10px; }
-  .card .footer { position: absolute; bottom: 10px; right: 10px; font-weight: bold; font-size: 0.7em; text-transform: uppercase; }
+  .card h4 { color: #58180D; margin-top: 0; margin-bottom: 5px; border-bottom: 2px solid #58180D; font-size: 1.1em; }
+  .card .type { font-style: italic; font-size: 0.7em; margin-bottom: 5px; }
+  .card .stat { font-weight: bold; font-size: 0.8em; margin: 1px 0; }
+  .card .description { font-size: 0.8em; margin-top: 8px; line-height: 1.1em; }
+  .card .footer { position: absolute; bottom: 8px; right: 8px; font-weight: bold; font-size: 0.6em; text-transform: uppercase; }
   .action { border-color: #228B22 !important; } /* Green */
   .bonus { border-color: #DAA520 !important; }  /* Gold */
   .reaction { border-color: #B22222 !important; } /* Red */
@@ -87,7 +87,6 @@
 <div class='footer'>Bonus Action</div>
 </div>
 
-\page
 
 <div class='card bonus'>
 #### Misty Step
