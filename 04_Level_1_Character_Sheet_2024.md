@@ -74,12 +74,18 @@
 
 **Dark One's Blessing (Level 1):**
 When you reduce a hostile creature to 0 hit points, you gain 5 temporary hit points.
+
 **Pact Spells (The Fiend):**
 You always have *Burning Hands* and *Command* prepared.
+
 **Magical Cunning (Level 1):**
 Once per Long Rest, you can spend 1 minute to regain 1 expended Warlock spell slot.
 
 <!-- Note: In 2014 Rules, The Watcher (Story Element) is listed here. -->
+<!-- Note: The Watcher detail 1 -->
+<!-- Note: The Watcher detail 2 -->
+<!-- Note: The Watcher detail 3 -->
+
 **Eldritch Invocations (Level 1):**
 1.  **Agonizing Blast:** Add your Charisma modifier (+4) to the damage of *Eldritch Blast*.
 2.  **Pact of the Chain:** You can cast *Find Familiar* as a ritual. Xil manifests physically at Level 1 with enhanced 2024 familiar stats.
@@ -106,12 +112,14 @@ Your exposure to the feywild's magic (or in your case, a twist of the infernal p
 
 **Cantrips (At-Will):**
 1.  **Eldritch Blast:** A beam of crackling energy. Range 120 ft. 1d10 + 4 Force damage.
-2.  **Friends:** Gain advantage on Charisma checks directed at one creature. (2024 version does not cause hostility).
 <!-- Note: In 2014 Rules, Minor Illusion cantrip is listed here. -->
+2.  **Friends:** Gain advantage on Charisma checks directed at one creature. (2024 version does not cause hostility).
 
 **Chosen Spells (Requires Warlock Spell Slot):**
 1.  **Armor of Agathys:** Gain 5 temporary hit points for 1 hour. If a creature hits you with a melee attack while you have these hit points, the creature takes 5 cold damage.
 2.  **Hellish Rebuke:** Reaction to being damaged. 60 ft range. DC 14 Dex save. 2d10 Fire damage (half on success).
+<!-- Note: In 2014 Rules, Burning Hands is listed here. -->
+
 **Free Patron Spells (Always Prepared):**
 1.  **Burning Hands:** 15 ft cone of fire. DC 14 Dex save. 3d6 Fire damage (half on success).
 2.  **Command:** Target must succeed on a DC 14 Wis save or follow a one-word command on its next turn.

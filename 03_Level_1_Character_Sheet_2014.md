@@ -74,12 +74,19 @@
 
 **Dark One's Blessing (Level 1):**
 When you reduce a hostile creature to 0 hit points, you gain 5 temporary hit points.
-<!-- Note: In 2024 Rules, Pact Spells (The Fiend) is added here as a feature. -->
-<!-- Note: In 2024 Rules, Magical Cunning (Level 1) is added here as a feature. -->
+
+<!-- Note: 2024 Pact Spells -->
+<!-- Note: 2024 Pact Spells Details -->
+
+<!-- Note: 2024 Magical Cunning -->
+<!-- Note: 2024 Magical Cunning Details -->
 
 **The Watcher (Story Element):**
 Xil, the enforcer of your contract, is bound to you. At this level, he cannot fully manifest physically in the material plane, but he exists at the edge of your perception—a shadow in the corner of your eye, a whisper in your ear. He watches your actions to ensure you do not break the pact.
-<!-- Note: In 2024 Rules, Eldritch Invocations is added here as a feature. -->
+
+<!-- Note: 2024 Eldritch Invocations -->
+<!-- Note: 2024 Agonizing Blast -->
+<!-- Note: 2024 Pact of the Chain -->
 
 **Feat (Custom Lineage): Fey Touched**
 Your exposure to the feywild's magic (or in your case, a twist of the infernal pact altering your essence) has changed you.
@@ -108,8 +115,11 @@ Your exposure to the feywild's magic (or in your case, a twist of the infernal p
 
 **Chosen Spells (Requires Warlock Spell Slot):**
 1.  **Armor of Agathys:** Gain 5 temporary hit points for 1 hour. If a creature hits you with a melee attack while you have these hit points, the creature takes 5 cold damage.
+<!-- Note: In 2024 Rules, Hellish Rebuke is added here as a chosen spell. -->
 2.  **Burning Hands:** (Fiend expanded list). 15 ft cone of fire. DC 14 Dex save. 3d6 Fire damage (half on success).
-<!-- Note: In 2024 Rules, Hellish Rebuke and Command are added here as free Patron spells. -->
+
+<!-- Note: 2024 Command spell -->
+<!-- Note: 2024 Disclaimer spacing -->
 
 *(Note: In 2014 rules, Fiend Patron spells are added to your available list but are not granted for free; they must be chosen.)*
 
