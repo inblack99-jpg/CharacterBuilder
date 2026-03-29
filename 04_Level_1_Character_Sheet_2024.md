@@ -12,13 +12,13 @@
 ---
 ## Core Stats
 **Armor Class (AC):** 13 (Leather Armor + 2 Dex)
-**Hit Points (HP):** 9 (8 + 1 Con)
+**Hit Points (HP):** 9
 **Hit Dice:** 1d8
 **Speed:** 30 ft.
 **Proficiency Bonus:** +2
 
 ---
-## Ability Scores & Saving Throws (2024)
+## Ability Scores & Saving Throws
 | Stat | Score | Mod | Saving Throw |
 |:---:|:---:|:---:|:---:|
 | **STR** | 8 | -1 | -1 |
@@ -30,7 +30,7 @@
 
 \column
 
-## Skills & Tools
+## Skills
 *(Proficient skills marked with '*)*
 *   Acrobatics (Dex): +2
 *   Animal Handling (Wis): +1
@@ -59,52 +59,62 @@
 *   Senses: Darkvision 60 ft. (Custom Lineage)
 
 ---
-## Combat (2024 Rules)
+## Combat
 **Initiative:** +2
 
 **Attacks:**
-*   **Eldritch Blast:** +6 to hit, Range 120 ft., Damage 1d10 + 4 Force. (Note: In 2024, Agonizing Blast is an Invocation you can take at Level 1!)
-*   **Xil (Imp) Attack:** Xil can attack as part of your action/bonus action depending on your Invocations.
+*   **Eldritch Blast:** +6 to hit, Range 120 ft., Damage 1d10 + 4 Force. (Agonizing Blast Invocation).
+*   **Xil (Imp) Attack:** Xil can attack as a Bonus Action. Damage 1d8 + 4.
+*   **Dagger:** +4 to hit, Range 20/60 ft., Damage 1d4 + 2 Piercing.
+*   **Light Crossbow:** +4 to hit, Range 80/320 ft., Damage 1d8 + 2 Piercing.
 
 \page
 
-## Features & Traits (2024)
+## Features & Traits
+
+**Dark One's Blessing (Level 1):**
+When you reduce a hostile creature to 0 hit points, you gain 5 temporary hit points.
 
 **Pact Spells (The Fiend):**
 You always have *Burning Hands* and *Command* prepared.
 
-**Dark One's Blessing:**
-When you reduce a creature to 0 HP, you gain 5 Temporary HP.
-
-**Magical Cunning:**
+**Magical Cunning (Level 1):**
 Once per Long Rest, you can spend 1 minute to regain 1 expended Warlock spell slot.
 
 **Eldritch Invocations (Level 1):**
-In 2024, Warlocks get two Invocations at Level 1!
 1.  **Agonizing Blast:** Add your Charisma modifier (+4) to the damage of *Eldritch Blast*.
-2.  **Pact of the Chain:** You can cast *Find Familiar* as a ritual. **Xil manifests physically at Level 1.** He has the enhanced 2024 familiar stats.
+2.  **Pact of the Chain:** You can cast *Find Familiar* as a ritual. Xil manifests physically at Level 1 with enhanced 2024 familiar stats.
 
 **Feat (Custom Lineage): Fey Touched**
-Your exposure to the feywild's magic has altered you.
-*   Increase your Charisma score by 1.
-*   You learn *Misty Step* and *Hex*. You can cast each for free once per long rest, or using spell slots.
+Your exposure to the feywild's magic (or in your case, a twist of the infernal pact altering your essence) has changed you.
+*   Increase your Charisma score by 1, to a maximum of 20.
+*   You learn the *Misty Step* spell and one 1st-level spell of your choice (*Hex*). You can cast each of these spells without expending a spell slot. Once you cast either of these spells in this way, you can't cast that spell in this way again until you finish a long rest. You can also cast these spells using spell slots you have of the appropriate level.
+
+---
+## Equipment
+*   Leather Armor
+*   Any simple weapon (e.g., a Dagger)
+*   Light Crossbow and 20 bolts
+*   A component pouch (or an arcane focus, like a dark crystal from your Patron)
+*   Scholar's Pack (Backpack, book of lore, ink, pen, 10 sheets of parchment, little bag of sand, small knife)
+*   Urchin Starting Gear: A small knife, a map of the city you grew up in, a pet mouse (perhaps a precursor to Xil?), a token to remember your parents by (or a reminder of your captivity), a set of common clothes, and a pouch containing 10 gp.
 
 \column
 
 ## Spellcasting
 **Spellcasting Ability:** Charisma (Save DC: 14, Attack Bonus: +6)
-**Warlock Slots:** 1 (Level 1, refreshes on Short Rest)
+**Warlock Slots:** 1 (Level 1). Regains on a Short Rest (or 1 minute via Magical Cunning).
 
-**Cantrips:**
-*   *Eldritch Blast*
-*   *Friends* (2024 version is much safer to use)
+**Cantrips (At-Will):**
+1.  **Eldritch Blast:** A beam of crackling energy. Range 120 ft. 1d10 + 4 Force damage.
+2.  **Friends:** Gain advantage on Charisma checks directed at one creature. (2024 version does not cause hostility).
 
-**Prepared Spells:**
-1.  *Armor of Agathys*
-2.  *Hellish Rebuke*
-3.  *Burning Hands* (Patron Spell)
-4.  *Command* (Patron Spell)
+**Prepared Spells (Requires Warlock Spell Slot):**
+1.  **Armor of Agathys:** Gain 5 temporary hit points for 1 hour. If a creature hits you with a melee attack while you have these hit points, the creature takes 5 cold damage.
+2.  **Hellish Rebuke:** Reaction to being damaged. 60 ft range. DC 14 Dex save. 2d10 Fire damage (half on success).
+3.  **Burning Hands:** (Patron Spell). 15 ft cone of fire. DC 14 Dex save. 3d6 Fire damage (half on success).
+4.  **Command:** (Patron Spell). Target must succeed on a DC 14 Wis save or follow a one-word command on its next turn.
 
-**Free Daily Spells (Fey Touched):**
-1.  *Misty Step* (Bonus Action teleport 30 ft.)
-2.  *Hex* (Bonus Action. 1d6 necrotic damage. If target drops to 0 HP, move it as a Bonus Action later. Concentration.)
+**Free Daily Spells (From Fey Touched Feat):**
+1.  **Misty Step:** Bonus Action. Teleport up to 30 feet to an unoccupied space you can see. (1 free cast/long rest).
+2.  **Hex:** Bonus Action. Target takes an extra 1d6 necrotic damage whenever you hit it with an attack. If the target drops to 0 HP, you can use a Bonus Action on a later turn to move the hex to a new creature. Requires Concentration. (1 free cast/long rest).
