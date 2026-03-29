@@ -1,0 +1,200 @@
+[
+  {
+    "count": 1,
+    "color": "green",
+    "title": "Eldritch Blast",
+    "icon": "magic-swirl",
+    "icon_back": "magic-swirl",
+    "contents": [
+      "subtitle | Cantrip (Evocation)",
+      "rule",
+      "property | Casting Time | 1 Action",
+      "property | Range | 120 feet",
+      "property | Components | V, S",
+      "rule",
+      "text | A beam of crackling energy streaks toward a creature within range.",
+      "fill | 2",
+      "text | **Attack:** 1d20 + 6",
+      "text | **Damage:** 1d10 + 4 Force",
+      "text | *(Note: If target is Hexed, add 1d6 Necrotic)*"
+    ],
+    "tags": ["Action", "Spell"]
+  },
+  {
+    "count": 1,
+    "color": "green",
+    "title": "Friends",
+    "icon": "shaking-hands",
+    "icon_back": "shaking-hands",
+    "contents": [
+      "subtitle | Cantrip (Enchantment)",
+      "rule",
+      "property | Casting Time | 1 Action",
+      "property | Range | 10 feet",
+      "property | Duration | 1 Minute",
+      "rule",
+      "text | For the duration, you have **Advantage** on all Charisma checks directed at one creature of your choice that isn't hostile toward you.",
+      "text | *(2024 Rule: The target does NOT become hostile when this spell ends).* "
+    ],
+    "tags": ["Action", "Spell"]
+  },
+  {
+    "count": 1,
+    "color": "green",
+    "title": "Burning Hands",
+    "icon": "burning-embers",
+    "icon_back": "burning-embers",
+    "contents": [
+      "subtitle | 1st Level (Evocation)",
+      "rule",
+      "property | Casting Time | 1 Action",
+      "property | Range | Self (15-foot cone)",
+      "property | Duration | Instantaneous",
+      "rule",
+      "text | As you hold your hands with thumbs touching and fingers spread, a thin sheet of flames shoots forth.",
+      "fill | 2",
+      "text | **Save:** DC 14 Dexterity",
+      "text | **Damage:** 3d6 Fire (half on success)",
+      "text | *Ignites flammable objects that aren't worn or carried.*"
+    ],
+    "tags": ["Action", "Spell"]
+  },
+  {
+    "count": 1,
+    "color": "green",
+    "title": "Command",
+    "icon": "pointing",
+    "icon_back": "pointing",
+    "contents": [
+      "subtitle | 1st Level (Enchantment)",
+      "rule",
+      "property | Casting Time | 1 Action",
+      "property | Range | 60 feet",
+      "property | Duration | 1 Round",
+      "rule",
+      "text | You speak a one-word command to a creature you can see. If it fails its save, it follows the command on its next turn.",
+      "fill | 2",
+      "text | **Save:** DC 14 Wisdom",
+      "text | *Common commands: Halt, Drop, Flee, Grovel.*",
+      "text | *Undead and creatures that don't understand you are immune.*"
+    ],
+    "tags": ["Action", "Spell"]
+  },
+  {
+    "count": 1,
+    "color": "green",
+    "title": "Armor of Agathys",
+    "icon": "ice-shield",
+    "icon_back": "ice-shield",
+    "contents": [
+      "subtitle | 1st Level (Abjuration)",
+      "rule",
+      "property | Casting Time | 1 Action",
+      "property | Range | Self",
+      "property | Duration | 1 Hour",
+      "rule",
+      "text | A protective magical force surrounds you, manifesting as a spectral frost that covers you and your gear.",
+      "fill | 2",
+      "text | **Benefit:** You gain 5 Temporary Hit Points.",
+      "text | **Retaliation:** If a creature hits you with a melee attack while you have these hit points, it takes **5 Cold Damage**."
+    ],
+    "tags": ["Action", "Spell"]
+  },
+  {
+    "count": 1,
+    "color": "goldenrod",
+    "title": "Hex",
+    "icon": "evil-eye",
+    "icon_back": "evil-eye",
+    "contents": [
+      "subtitle | 1st Level (Enchantment)",
+      "rule",
+      "property | Casting Time | 1 Bonus Action",
+      "property | Range | 90 feet",
+      "property | Duration | 1 Hour (Concentration)",
+      "rule",
+      "text | You place a curse on a creature you can see. Until the spell ends, you deal extra damage when you hit it with an attack.",
+      "fill | 2",
+      "text | **Bonus Damage:** 1d6 Necrotic (per hit)",
+      "text | **Debuff:** Target has Disadvantage on ability checks made with one stat of your choice.",
+      "text | **Re-cast:** If the target drops to 0 HP, use a Bonus Action on a subsequent turn to move the hex to a new creature."
+    ],
+    "tags": ["Bonus Action", "Spell"]
+  },
+  {
+    "count": 1,
+    "color": "goldenrod",
+    "title": "Misty Step",
+    "icon": "teleport",
+    "icon_back": "teleport",
+    "contents": [
+      "subtitle | 2nd Level (Conjuration)",
+      "rule",
+      "property | Casting Time | 1 Bonus Action",
+      "property | Range | Self",
+      "property | Duration | Instantaneous",
+      "rule",
+      "text | Briefly surrounded by silvery mist, you teleport up to 30 feet to an unoccupied space that you can see.",
+      "fill | 2",
+      "text | *Great for escaping melee combat without triggering an opportunity attack, or bypassing locked gates/bars you can see through.*"
+    ],
+    "tags": ["Bonus Action", "Spell"]
+  },
+  {
+    "count": 1,
+    "color": "goldenrod",
+    "title": "Command Xil",
+    "icon": "imp",
+    "icon_back": "imp",
+    "contents": [
+      "subtitle | Pact of the Chain (Invocation)",
+      "rule",
+      "property | Casting Time | 1 Bonus Action",
+      "property | Requirement | Xil must be within 100 ft.",
+      "rule",
+      "text | You command your familiar, Xil, to take the **Attack** action on its turn.",
+      "fill | 2",
+      "text | **Attack:** 1d20 + 5",
+      "text | **Damage (Sting):** 1d8 + 4",
+      "text | *(Note: In 2024, Xil rolls his own initiative and takes his turn independently, but needs this command to attack).* "
+    ],
+    "tags": ["Bonus Action", "Class Feature"]
+  },
+  {
+    "count": 1,
+    "color": "maroon",
+    "title": "Hellish Rebuke",
+    "icon": "fire-dash",
+    "icon_back": "fire-dash",
+    "contents": [
+      "subtitle | 1st Level (Evocation)",
+      "rule",
+      "property | Casting Time | 1 Reaction",
+      "property | Trigger | You take damage from a creature you can see within 60 ft.",
+      "rule",
+      "text | You point your finger, and the creature that damaged you is momentarily surrounded by hellish flames.",
+      "fill | 2",
+      "text | **Save:** DC 14 Dexterity",
+      "text | **Damage:** 2d10 Fire (half on success)"
+    ],
+    "tags": ["Reaction", "Spell"]
+  },
+  {
+    "count": 1,
+    "color": "purple",
+    "title": "Xil (Imp) Actions",
+    "icon": "bat",
+    "icon_back": "bat",
+    "contents": [
+      "subtitle | Pact of the Chain Familiar",
+      "rule",
+      "property | Speed | 20ft Walk, 40ft Fly",
+      "property | Defenses | Resist: Cold/Weapon, Immune: Fire/Poison",
+      "rule",
+      "text | **Invisibility (Action):** Magically turn Invisible until he attacks or concentration ends.",
+      "text | **Shapechanger (Action):** Polymorph into a Raven (50ft Fly), Rat (20ft Walk), or Spider (20ft Climb). Retains all stats but cannot attack.",
+      "text | **Help (Action):** Distracts a target within 5ft. Gives Brenya Advantage on her next attack against it. *(Does NOT break Invisibility).* "
+    ],
+    "tags": ["Familiar", "Utility"]
+  }
+]
