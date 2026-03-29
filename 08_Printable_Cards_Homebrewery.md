@@ -87,6 +87,8 @@
 <div class='footer'>Bonus Action</div>
 </div>
 
+\page
+
 <div class='card bonus'>
 #### Misty Step
 <div class='type'>2nd Level (Conjuration)</div>
